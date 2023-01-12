@@ -1,5 +1,4 @@
 # PHP_spreedsheet_helper
-PHPSpreadsheet Helper
 ======================
 
 PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet
